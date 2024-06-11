@@ -1,5 +1,10 @@
 Hi, I'm Mason!
 
+I graduated from Wittenberg University in Springfield, Ohio in 2024 with a BA in Computer Science.
+
+While studying, I took a particular interest in quality control, design, and software engineering processes.
+I'm hoping to become a project manager or lead software engineer in the future!
+
 I currently work as an Intern with Yamada North America, INC. in their Quality Assurance department. 
 I work with their digital document management solutions to improve manufacturing workflows.
 Currently, I'm programming in Python and working with lots of JSON for on-network applications.
