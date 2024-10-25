@@ -35,7 +35,7 @@ Learn more about my music [here](https://www.masonritchason.com)!
 
 #
 ### My Public Contribution Stats:
-![Mason's GitHub stats](https://github-readme-stats-mason-ritchasons-projects.vercel.app/api?username=masonritchason&show=prs_merged&show_icons=true&show_all_commits=true&theme=panda)
+[![Mason's GitHub stats](https://github-readme-stats-priv-beta.vercel.app/api?username=masonritchason&show=prs_merged&show_icons=true&show_all_commits=true&theme=panda)](https://github.com/masonritchason/github-readme-stats-priv)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=masonritchason)](https://git.io/streak-stats)
 
