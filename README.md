@@ -37,6 +37,8 @@ Learn more about my music [here](https://www.masonritchason.com)!
 ### My Public Contribution Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonritchason&show=prs_merged&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=masonritchason)](https://git.io/streak-stats)
+
 <!---
 masonritchason/masonritchason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
