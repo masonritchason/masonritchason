@@ -1,6 +1,6 @@
 # Hi, I'm Mason!
-I'm a software engineer and a musician.
-
+**I'm a software engineer and a musician.
+**
 #
 I graduated from **Wittenberg University** in Springfield, Ohio in 2024 with a BA in Computer Science and a BA in Music.
 
@@ -16,18 +16,18 @@ Ongoing project aimed to design and deploy a new tracking system for Lot (manufa
 Utilizes handheld scanners to cut out manual data entry and leverages a custom-design software to interface with new Lot database.
 
 #
-### Previously:
-#### Intern with Yamada North America, INC. in their Quality Assurance department. 
-- Worked with digital document management solutions to improve manufacturing workflows.
-- Programmed in `Python` and worked with APIs and `JSON`.
-
-#
 ### Currently:
 #### Quality Assurance Technician II @ YNA INC.
 - Working as the **main engineer** on a project to overhaul YNA **manufacturing tracking process**.
     * Developing software, designing and engineering systems, integrating network systems, and working with second-party handheld scanners.
     * Programming in `Python` and `JavaScript`.
     * Mastering the wizarding mechanics of `Git` and `GitHub`...
+
+#
+### Previously:
+#### Intern with Yamada North America, INC. in their Quality Assurance department. 
+- Worked with digital document management solutions to improve manufacturing workflows.
+- Programmed in `Python` and worked with APIs and `JSON`.
 
 #
 ### On the side, I'm a professional musician and a composer!
