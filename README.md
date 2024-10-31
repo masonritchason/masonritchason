@@ -1,6 +1,5 @@
 # Hi, I'm Mason!
-**I'm a software engineer and a musician.
-**
+**I'm a software engineer and a musician.**
 #
 I graduated from **Wittenberg University** in Springfield, Ohio in 2024 with a BA in Computer Science and a BA in Music.
 
