@@ -8,11 +8,12 @@ I'm hoping to become a project manager or lead software engineer in the future!
 
 #
 ### Notable Projects
-#### Keyence IM Interface (`private`)
-API and data processing system used to link two disparate processes. Cuts manual data-entry out of key workflows and improves accuracy.
-#### Lot Control Management System (`private`)
+#### Lot Control Management System (`private`) (Sep 2024 - Current)
 Ongoing project aimed to design and deploy a new tracking system for Lot (manufacturing) data.
 Utilizes handheld scanners to cut out manual data entry and leverages a custom-design software to interface with new Lot database.
+
+#### Keyence IM Interface (`private`) (May-Aug 2024)
+API and data processing system used to link two disparate processes. Cuts manual data-entry out of key workflows and improves accuracy.
 
 #
 ### Currently:
@@ -34,8 +35,6 @@ Learn more about my music [here](https://www.masonritchason.com)!
 
 #
 ### My Public Contribution Stats:
-[![Mason's GitHub stats](https://github-readme-stats-priv-beta.vercel.app/api?username=masonritchason&show=prs_merged&show_icons=true&show_all_commits=true&theme=panda)](https://github.com/masonritchason/github-readme-stats-priv)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=masonritchason)](https://git.io/streak-stats)
 
 <!---
