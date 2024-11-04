@@ -15,12 +15,17 @@
             Ongoing project aimed to design and deploy a new tracking system for Lot (manufacturing) data.
             Utilizes handheld scanners to cut out manual data entry and leverages a custom-design software to interface with new Lot database.
          </p>
-         <h4>LCMS Home Window</h4>
-         <img src=https://github.com/masonritchason/masonritchason/blob/main/lcms_home.png width=600 height=300>
-         <h4>LCMS Report Window</h4>
-         <img src=https://github.com/masonritchason/masonritchason/blob/main/lcms_report.png width=600 height=300>
-         <h4>LCMS Feature-rich UI</h4>
-         <img src=https://github.com/masonritchason/masonritchason/blob/main/lcms_menus.png width=525 height=300>
+         <h4>LCMS in Action</h4>
+         <video src=https://github.com/masonritchason/masonritchason/blob/main/LCMS-Demo.mp4>
+         <details>
+            <summary><h4>Gallery</h4></summary>
+               <h4>LCMS Home Window</h4>
+               <img src=https://github.com/masonritchason/masonritchason/blob/main/lcms_home.png width=600 height=300>
+               <h4>LCMS Report Window</h4>
+               <img src=https://github.com/masonritchason/masonritchason/blob/main/lcms_report.png width=600 height=300>
+               <h4>LCMS Feature-rich UI</h4>
+               <img src=https://github.com/masonritchason/masonritchason/blob/main/lcms_menus.png width=525 height=300>
+         </details>
    </details>
    <details>
       <summary><h2>Keyence IM Interface (private) (May-Aug 2024)</h2></summary>
