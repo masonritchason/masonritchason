@@ -11,6 +11,9 @@ I'm hoping to become a project manager or lead software engineer in the future!
 #### Lot Control Management System (`private`) (Sep 2024 - Current)
 Ongoing project aimed to design and deploy a new tracking system for Lot (manufacturing) data.
 Utilizes handheld scanners to cut out manual data entry and leverages a custom-design software to interface with new Lot database.
+<img src=https://github.com/masonritchason/masonritchason/blob/main/lcms_home.png width=600 height=300>
+<img src=https://github.com/masonritchason/masonritchason/blob/main/lcms_report.png width=600 height=300>
+<img src=https://github.com/masonritchason/masonritchason/blob/main/lcms_menus.png width=525 height=300>
 
 #### Keyence IM Interface (`private`) (May-Aug 2024)
 API and data processing system used to link two disparate processes. Cuts manual data-entry out of key workflows and improves accuracy.
