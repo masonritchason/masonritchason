@@ -1,4 +1,4 @@
-<div align=center>
+<div align=left>
    <h2>Hi, I'm Mason!</h2>
    <h4>I'm a software engineer and a musician.</h4>
    <h4>I graduated from Wittenberg University in Springfield, Ohio in 2024 with a BA in Computer Science and a BA in Music.</h4>
@@ -7,6 +7,7 @@
       I'm hoping to become a project manager or lead software engineer in the future!
    </p>
 </div>
+&nbsp
 <div align=left>
    <h2>Notable Projects</h2>
    <details>
@@ -16,7 +17,9 @@
             Utilizes handheld scanners to cut out manual data entry and leverages a custom-design software to interface with new Lot database.
          </p>
          <h4>LCMS in Action</h4>
-         <video src=https://github.com/masonritchason/masonritchason/blob/main/LCMS-Demo.mp4>
+         <video controls>
+            <source src=https://github.com/masonritchason/masonritchason/blob/main/LCMS-Demo.mp4 type="video/mp4">
+         </video>
          <details>
             <summary><h4>Gallery</h4></summary>
                <h4>LCMS Home Window</h4>
@@ -35,9 +38,10 @@
          </p>
    </details>
 </div>
-
+&nbsp
 <div align=left>
-   <h2>Currently:</h2>
+   <h2>What I Do</h2>
+   <h3>Currently:</h3>
    <h4>Quality Assurance Technician II @ YNA INC.</h4>
    <p>
       Working as the main engineer on a project to overhaul YNA manufacturing tracking process.
@@ -51,20 +55,19 @@
    <p>
       * Mastering the wizarding mechanics of Git and GitHub...
    </p>
+   <details>
+      <summary><h3>Previously</h3></summary>
+         <h4>Intern with Yamada North America, INC. in their Quality Assurance department.</h4>
+         <p>
+            * Worked with digital document management solutions to improve manufacturing workflows.
+         </p>
+         <p>
+            * Programmed in Python and worked with APIs and JSON.
+         </p>
+   </details>
 </div>
-
+&nbsp
 <div align=left>
-   <h2>Previously:</h2>
-   <h4>Intern with Yamada North America, INC. in their Quality Assurance department.</h4>
-   <p>
-      * Worked with digital document management solutions to improve manufacturing workflows.
-   </p>
-   <p>
-      * Programmed in Python and worked with APIs and JSON.
-   </p>
-</div>
-
-<div align=center>
    <h2>On the side, I'm a professional musician and a composer!</h2>
    <p>
       <a href=https://www.masonritchason.com>
@@ -72,7 +75,8 @@
       </a>
    </p>
 </div>
-<div align=center>
+&nbsp
+<div align=left>
    <h2>My Public Contribution Stats:</h2>
    <img title="Mason Ritchason's Public GitHub Contributions" src="https://streak-stats.demolab.com/?user=masonritchason">
 </div>
