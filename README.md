@@ -78,7 +78,8 @@
 &nbsp
 <div align=left>
    <h2>My Public Contribution Stats:</h2>
-   <img title="Mason Ritchason's Public GitHub Contributions" src="https://streak-stats.demolab.com/?user=masonritchason">
+   <img alt="Mason Ritchason's Public GitHub Contributions" src="https://streak-stats.demolab.com/?user=masonritchason">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonritchason"/>
 </div>
    
    <!---
