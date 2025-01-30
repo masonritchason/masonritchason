@@ -13,8 +13,26 @@
    <details>
       <summary><h2>Lot Control Management System (private) (Sep 2024 - Current)</h2></summary>
          <p>
-            Ongoing project aimed to design and deploy a new tracking system for Lot (manufacturing) data.
-            Utilizes handheld scanners to cut out manual data entry and leverages a custom-design software to interface with new Lot database.
+Lot Control Management System (LCMS) is a new, all-encompasing system that enables digital lot-tracing data management at YNA. With LCMS, YNA is able to store and interact with lot-tracing data from every in-house             production process. Starting at the raw material stage, LCMS creates long-form chains of data that trace information from each process station. 
+
+Lot-tracing data can be viewed, extracted, and manipulated to assist in part problem management. LCMS eliminates costly paper records, allows timely lot-tracing, and cuts back on problematic human error.
+
+LCMS is a 3-part [Distributed System](https://stackoverflow.com/questions/72763123/what-is-meant-by-distributed-system)* that consists of the **LCMS Client**, and **LCMS WIP Printer** applications, and the **LCMS Watcher** service.
+
+**LCMS Client (Application)**
+[see repository >](https://github.com/masonritchason/lcms-client)
+
+A feature-rich application that provides a window into the LCMS database. Allows associates to view, manage, and manipulate lot-tracing data in many ways. Using fast, configurable search algorithms, users can quickly and easily find problem part ranges. With the built-in reporting tools, users can export organized, limited datasets that can be used in a wide range of applications. Manipulating, scrapping, and deleting lot-trace information is easy with LCMS Client's intuituve Label Recreation function.
+
+**LCMS WIP Printer (Application)**
+[see repository >](https://github.com/masonritchason/lcms-wip-printer)
+
+Low-level, high-security printing software used to produce lot-tracing labels. These labels are applied to in-house, in-process parts.
+
+**LCMS Watcher (Service)**
+[see repository >](https://github.com/masonritchason/lcms-watcher)
+
+WinService-style program that processes scan results from YNA's fleet of production floor handheld scanners. Reads, formats, processes, and inserts new Label scans into the LCMS database.
          </p>
    </details>
    <details>
@@ -31,7 +49,7 @@
    <h3>Currently:</h3>
    <h4>Quality Assurance Technician II @ YNA INC.</h4>
    <p>
-      Working as the main engineer on a project to overhaul YNA manufacturing tracking process.
+      Working as the main engineer on **LCMS**, a project to overhaul YNA manufacturing tracking process.
    </p>
    <p>
       * Developing software, designing and engineering systems, integrating network systems, and working with second-party handheld scanners.
