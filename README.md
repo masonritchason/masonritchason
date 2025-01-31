@@ -19,20 +19,20 @@ Lot Control Management System (LCMS) is a new, all-encompasing system that enabl
 Lot-tracing data can be viewed, extracted, and manipulated to assist in part problem management. LCMS eliminates costly paper records, allows timely lot-tracing, and cuts back on problematic human error.
 
 LCMS is a 3-part [Distributed System](https://stackoverflow.com/questions/72763123/what-is-meant-by-distributed-system)* that consists of the **LCMS Client**, and **LCMS WIP Printer** applications, and the **LCMS Watcher** service.
-
-<h4>LCMS Client (Application)</h4>
-[see repository >](https://github.com/masonritchason/lcms-client)
-
+         </p>
+         <h4>LCMS Client (Application)</h4>
+         <p>[see repository >](https://github.com/masonritchason/lcms-client)</p>
+         <p>
 A feature-rich application that provides a window into the LCMS database. Allows associates to view, manage, and manipulate lot-tracing data in many ways. Using fast, configurable search algorithms, users can quickly and easily find problem part ranges. With the built-in reporting tools, users can export organized, limited datasets that can be used in a wide range of applications. Manipulating, scrapping, and deleting lot-trace information is easy with LCMS Client's intuituve Label Recreation function.
-
-<h4>LCMS WIP Printer (Application)</h4>
-[see repository >](https://github.com/masonritchason/lcms-wip-printer)
-
+         </p>
+         <h4>LCMS WIP Printer (Application)</h4>
+         <p>[see repository >](https://github.com/masonritchason/lcms-wip-printer)</p>
+         <p>
 Low-level, high-security printing software used to produce lot-tracing labels. These labels are applied to in-house, in-process parts.
-
-<h4>LCMS Watcher (Service)</h4>
-[see repository >](https://github.com/masonritchason/lcms-watcher)
-
+         </p>
+         <h4>LCMS Watcher (Service)</h4>
+         <p>[see repository >](https://github.com/masonritchason/lcms-watcher)</p>
+         <p>
 WinService-style program that processes scan results from YNA's fleet of production floor handheld scanners. Reads, formats, processes, and inserts new Label scans into the LCMS database.
          </p>
    </details>
