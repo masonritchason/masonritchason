@@ -11,29 +11,11 @@
 <div align=left>
    <h2>Notable Projects</h2>
    <details>
-      <summary><h2>Lot Control Management System (private) (Sep 2024 - Current)</h2></summary>
+      <summary><h2>LotCoM (private) (Sep 2024 - Current)</h2></summary>
          <h4>About</h4>
+         <p>[see project](https://github.com/LotCoM)</p>
          <p>
-Lot Control Management System (LCMS) is a new, all-encompasing system that enables digital lot-tracing data management at YNA. With LCMS, YNA is able to store and interact with lot-tracing data from every in-house             production process. Starting at the raw material stage, LCMS creates long-form chains of data that trace information from each process station. 
-
-Lot-tracing data can be viewed, extracted, and manipulated to assist in part problem management. LCMS eliminates costly paper records, allows timely lot-tracing, and cuts back on problematic human error.
-
-LCMS is a 3-part [Distributed System](https://stackoverflow.com/questions/72763123/what-is-meant-by-distributed-system)* that consists of the **LCMS Client**, and **LCMS WIP Printer** applications, and the **LCMS Watcher** service.
-         </p>
-         <h4>LCMS Client (Application)</h4>
-         <p>[see repository >](https://github.com/masonritchason/lcms-client)</p>
-         <p>
-A feature-rich application that provides a window into the LCMS database. Allows associates to view, manage, and manipulate lot-tracing data in many ways. Using fast, configurable search algorithms, users can quickly and easily find problem part ranges. With the built-in reporting tools, users can export organized, limited datasets that can be used in a wide range of applications. Manipulating, scrapping, and deleting lot-trace information is easy with LCMS Client's intuituve Label Recreation function.
-         </p>
-         <h4>LCMS WIP Printer (Application)</h4>
-         <p>[see repository >](https://github.com/masonritchason/lcms-wip-printer)</p>
-         <p>
-Low-level, high-security printing software used to produce lot-tracing labels. These labels are applied to in-house, in-process parts.
-         </p>
-         <h4>LCMS Watcher (Service)</h4>
-         <p>[see repository >](https://github.com/masonritchason/lcms-watcher)</p>
-         <p>
-WinService-style program that processes scan results from YNA's fleet of production floor handheld scanners. Reads, formats, processes, and inserts new Label scans into the LCMS database.
+LotCoM is a new, all-encompasing system that enables digital lot-tracing data management at YNA. With LotCoM, YNA is able to store and interact with lot-tracing data from every in-house production process. Starting at the raw material stage, LCMS creates long-form chains of data that trace information from each process station. 
          </p>
    </details>
    <details>
