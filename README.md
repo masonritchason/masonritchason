@@ -15,7 +15,7 @@
          <h4>About</h4>
          <p>[see project](https://github.com/LotCoM)</p>
          <p>
-LotCoM is a new, all-encompasing system that enables digital lot-tracing data management at YNA. With LotCoM, YNA is able to store and interact with lot-tracing data from every in-house production process. Starting at the raw material stage, LCMS creates long-form chains of data that trace information from each process station. 
+LotCoM is a new, all-encompasing system that enables digital lot-tracing data management at YNA. With LotCoM, YNA is able to store and interact with lot-tracing data from every in-house production process. Starting at the raw material stage, LotCoM creates long-form chains of data that trace information from each process station. 
          </p>
    </details>
    <details>
