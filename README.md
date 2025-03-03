@@ -38,7 +38,7 @@ LotCoM is a new, all-encompasing system that enables digital lot-tracing data ma
       * Developing software, designing and engineering systems, integrating network systems, and working with second-party handheld scanners.
    </p>
    <p>
-      * Programming in Python, MS .NET, C# & XAML, and JavaScript.
+      * Programming in Python, .NET, C# & XAML, and JavaScript.
    </p>
    <p>
       * Mastering the wizarding mechanics of Git and GitHub...
