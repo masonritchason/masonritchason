@@ -30,27 +30,30 @@ LotCoM is a new, all-encompasing system that enables digital lot-tracing data ma
 <div align=left>
    <h2>What I Do</h2>
    <h3>Currently:</h3>
-   <h4>Quality Assurance Technician II @ YNA INC.</h4>
+   <h4>Software Engineer @ YNA INC.</h4>
    <p>
-      Working as the main engineer on **LCMS**, a project to overhaul YNA manufacturing tracking process.
+      Working as the lead engineer on LotCoM, a project to overhaul YNA manufacturing tracking process.
    </p>
    <p>
-      * Developing software, designing and engineering systems, integrating network systems, and working with second-party handheld scanners.
+      * Developing software, designing and engineering systems, integrating network systems, and working with third-party handheld scanners.
    </p>
    <p>
-      * Programming in Python, .NET, C# & XAML, and JavaScript.
+      * Programming in .NET C#, Python, XAML, and JavaScript.
    </p>
    <p>
       * Mastering the wizarding mechanics of Git and GitHub...
+   </p>
+   <p>
+      * Learning CI/CD pipeline design.
    </p>
    <details>
       <summary><h3>Previously</h3></summary>
          <h4>Intern with Yamada North America, INC. in their Quality Assurance department.</h4>
          <p>
-            * Worked with digital document management solutions to improve manufacturing workflows.
+            * Engineered software and APIs integrating digital document management solutions to improve workflows.
          </p>
          <p>
-            * Programmed in Python and worked with APIs and JSON.
+            * Programmed in Python; worked with APIs and JSON.
          </p>
    </details>
 </div>
@@ -67,7 +70,7 @@ LotCoM is a new, all-encompasing system that enables digital lot-tracing data ma
 <div align=left>
    <h2>My Public Contribution Stats:</h2>
    <img alt="Mason Ritchason's Public GitHub Contributions" src="https://streak-stats.demolab.com/?user=masonritchason">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonritchason"/>
+   <img alt="Mason Ritchason's Public Language Use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonritchason"/>
 </div>
    
    <!---
