@@ -158,8 +158,8 @@
 <div align=left>
    <h1>Activity ⏭️</h1>
    <h2>Stats 💪</h2></summary>
-   <img src="https://streak-stats.demolab.com/?user=masonritchason" alt="Mason's Public Contributions"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=masonritchason&show_icons=true&hide_border=true" alt="Mason's GitHub Ranks"/>
+   <img src="https://streak-stats.demolab.com/?user=masonritchason" alt="Mason's Public Contributions" width=350 height=150/>
+   <img src="https://github-readme-stats.vercel.app/api?username=masonritchason&show_icons=true&hide_border=true" alt="Mason's GitHub Ranks" width=350 height=150/>
    <h2>LotCom ERP Project 🏭</h2></summary>
    <div>
    </div>
