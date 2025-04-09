@@ -1,6 +1,20 @@
 <div align=left>
    <h1>Hi, I'm Mason!</h1>
    <h2>I'm a software engineer and a musician, learning to lead with leading tech 🛠️</h2>
+   <div align=center>
+      <a href="https://www.linkedin.com/in/mason-ritchason-590b4a35a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+         <img src="https://github.com/masonritchason/masonritchason/blob/main/InBug-White.png" alt="LinkedIn" width="100" height="100"/>
+      </a>
+      <a href="https://www.masonritchason.com">
+         <img src="https://github.com/masonritchason/masonritchason/blob/main/Network_globe.png" alt="Website" width="100" height="100"/>
+      </a>
+      <a href="https://www.facebook.com/mason.ritchason.5">
+         <img src="https://github.com/masonritchason/masonritchason/blob/main/Facebook_Logo_Secondary.png" alt="Facebook" width="100" height="100"/>
+      </a>
+      <a href="https://www.youtube.com/@masonritchason">
+         <img src="https://github.com/masonritchason/masonritchason/blob/main/YouTube_Logo_2017.png" alt="YouTube" width="100" height="75"/>
+      </a>
+   </div>
 </div>
 
 <div align=left>
@@ -116,7 +130,6 @@
    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF" alt="GitHub"/>
    <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=for-the-badge&logo=github-actions&logoColor=%23FFFFFF" alt="GitHub Actions"/>
    <img src="https://img.shields.io/badge/SemVer%202.0-%233F4551?style=for-the-badge&logo=semver&logoColor=%23FFFFFF" alt="SemVer 2.0"/>
-   &nbsp
    <h3>Internship @ Yamada North America (May - Sep 2024)</h3>
    <p>
       My first internship was with a automotive manufacturing company called Yamada North America.
@@ -148,14 +161,62 @@
    <img src="https://streak-stats.demolab.com/?user=masonritchason" alt="Mason's Public Contributions"/>
    <img src="https://github-readme-stats.vercel.app/api?username=masonritchason&show_icons=true&hide_border=true" alt="Mason's GitHub Ranks"/>
    <h2>LotCom ERP Project 🏭</h2></summary>
+   <div>
+   </div>
    <a href="https://www.github.com/LotCoM">See the Project</a>
    <div>
       &nbsp
    </div>
-   <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-printer?authorFilter=masonritchason&style=for-the-badge&label=Printer"/>
-   <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-client?authorFilter=masonritchason&style=for-the-badge&label=Client"/>
-   <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-scanner-configs?authorFilter=masonritchason&style=for-the-badge&label=Scanners"/>
-   <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-watcher?authorFilter=masonritchason&style=for-the-badge&label=Watcher"/>
+   <table>
+      <tr>
+         <th>Printer Application</th>
+         <th>Client Application</th>
+         <th>Scanner Scripts</th>
+         <th>Watcher Service/Script</th>
+      </tr>
+      <tr>
+         <td>
+            <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-printer?authorFilter=masonritchason&style=for-the-badge&label=Commits"/>
+         </td>
+         <td>
+            <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-client?authorFilter=masonritchason&style=for-the-badge&label=Commits"/>
+         </td>
+         <td>
+            <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-scanner-configs?authorFilter=masonritchason&style=for-the-badge&label=Commits"/>
+         </td>
+         <td>
+            <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-watcher?authorFilter=masonritchason&style=for-the-badge&label=Commits"/>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <img src="https://img.shields.io/github/languages/count/LotCoM/LotCoM-printer?style=for-the-badge"/>
+         </td>
+         <td>
+            <img src="https://img.shields.io/github/languages/count/LotCoM/LotCoM-client?style=for-the-badge"/>
+         </td>
+         <td>
+            <img src="https://img.shields.io/github/languages/count/LotCoM/LotCoM-scanner-configs?style=for-the-badge"/>
+         </td>
+         <td>
+            <img src="https://img.shields.io/github/languages/count/LotCoM/LotCoM-watcher?style=for-the-badge"/>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <img src="https://img.shields.io/github/languages/top/LotCoM/LotCoM-printer?style=for-the-badge"/>
+         </td>
+         <td>
+            <img src="https://img.shields.io/github/languages/top/LotCoM/LotCoM-client?style=for-the-badge"/>
+         </td>
+         <td>
+            <img src="https://img.shields.io/github/languages/top/LotCoM/LotCoM-scanner-configs?style=for-the-badge"/>
+         </td>
+         <td>
+            <img src="https://img.shields.io/github/languages/top/LotCoM/LotCoM-watcher?style=for-the-badge"/>
+         </td>
+      </tr>
+   </table>
 </div>
 
 <div align=left>
