@@ -221,6 +221,7 @@
 
 <div align=left>
    <h1>Currently Learning 📖</h1>
+   <h2>ASP.NET & Blazor Web Development 🌐</h2>
    <h2>DevOps 📦</h2>
    <p>Git & GitHub</p>
    <p>Version Control Conventions</p>
