@@ -64,7 +64,7 @@
    <h2>Experience ✍️</h2>
    <h3>Software Developer @ Hybrid Digital (Sep 2025 - Current)</h3>
    <p>
-
+      ASP.NET MVC and Razor development.
    </p>
    
    <h3>Software Engineer @ Yamada North America (May 2024 - Sep 2025)</h3>
@@ -97,74 +97,20 @@
    <h2>Stats 💪</h2></summary>
    <img src="https://streak-stats.demolab.com/?user=masonritchason" alt="Mason's Public Contributions" width=350 height=150/>
    <img src="https://github-readme-stats.vercel.app/api?username=masonritchason&show_icons=true&hide_border=true" alt="Mason's GitHub Ranks" width=350 height=150/>
+   <h2>Pointer change-point control system</h2>
+   <a href="https://www.github.com/pointer-core">Core Library</a>
+   <a href="https://www.github.com/pointer-api">API</a>
    <h2>LotCom ERP Project 🏭</h2></summary>
    <div>
    </div>
-   <a href="https://www.github.com/LotCoM">See the Project</a>
+   <a href="https://www.github.com/Yamada-North-America">See the Project at YNA</a>
    <div>
       &nbsp
    </div>
-   <table>
-      <tr>
-         <th>Printer Application</th>
-         <th>Client Application</th>
-         <th>Scanner Scripts</th>
-         <th>Watcher Service/Script</th>
-      </tr>
-      <tr>
-         <td>
-            <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-printer?authorFilter=masonritchason&style=for-the-badge&label=Commits"/>
-         </td>
-         <td>
-            <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-client?authorFilter=masonritchason&style=for-the-badge&label=Commits"/>
-         </td>
-         <td>
-            <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-scanner-configs?authorFilter=masonritchason&style=for-the-badge&label=Commits"/>
-         </td>
-         <td>
-            <img src="https://img.shields.io/github/commit-activity/m/LotCoM/LotCoM-watcher?authorFilter=masonritchason&style=for-the-badge&label=Commits"/>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <img src="https://img.shields.io/github/languages/count/LotCoM/LotCoM-printer?style=for-the-badge"/>
-         </td>
-         <td>
-            <img src="https://img.shields.io/github/languages/count/LotCoM/LotCoM-client?style=for-the-badge"/>
-         </td>
-         <td>
-            <img src="https://img.shields.io/github/languages/count/LotCoM/LotCoM-scanner-configs?style=for-the-badge"/>
-         </td>
-         <td>
-            <img src="https://img.shields.io/github/languages/count/LotCoM/LotCoM-watcher?style=for-the-badge"/>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <img src="https://img.shields.io/github/languages/top/LotCoM/LotCoM-printer?style=for-the-badge"/>
-         </td>
-         <td>
-            <img src="https://img.shields.io/github/languages/top/LotCoM/LotCoM-client?style=for-the-badge"/>
-         </td>
-         <td>
-            <img src="https://img.shields.io/github/languages/top/LotCoM/LotCoM-scanner-configs?style=for-the-badge"/>
-         </td>
-         <td>
-            <img src="https://img.shields.io/github/languages/top/LotCoM/LotCoM-watcher?style=for-the-badge"/>
-         </td>
-      </tr>
-   </table>
 </div>
 
 <div align=left>
    <h1>Currently Learning 📖</h1>
-   <h2>ASP.NET & Blazor Web Development 🌐</h2>
-   <h2>DevOps 📦</h2>
-   <p>Git & GitHub</p>
-   <p>Version Control Conventions</p>
-   <p>CI/CD & Release Management</p>
-   <h2>Azure ☁️</h2></summary>
-   <p>Working through Microsoft's Azure traning courses & certifications</p>
 </div>
 
 <div align=left>
