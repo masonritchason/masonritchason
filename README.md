@@ -111,6 +111,7 @@
 
 <div align=left>
    <h1>Currently Learning 📖</h1>
+   <p>GitLab, Visual Studio, SAP B1</p>
 </div>
 
 <div align=left>
