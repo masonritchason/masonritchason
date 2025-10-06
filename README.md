@@ -98,8 +98,8 @@
    <img src="https://streak-stats.demolab.com/?user=masonritchason" alt="Mason's Public Contributions" width=350 height=150/>
    <img src="https://github-readme-stats.vercel.app/api?username=masonritchason&show_icons=true&hide_border=true" alt="Mason's GitHub Ranks" width=350 height=150/>
    <h2>Pointer change-point control system</h2>
-   <a href="https://www.github.com/pointer-core">Core Library</a>
-   <a href="https://www.github.com/pointer-api">API</a>
+   <a href="https://www.github.com/masonritchason/pointer-core">Core Library</a>
+   <a href="https://www.github.com/masonritchason/pointer-api">API</a>
    <h2>LotCom ERP Project 🏭</h2></summary>
    <div>
    </div>
