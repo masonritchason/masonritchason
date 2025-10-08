@@ -64,7 +64,12 @@
    <h2>Experience ✍️</h2>
    <h3>Software Developer @ Hybrid Digital (Sep 2025 - Current)</h3>
    <p>
-      ASP.NET MVC and Razor development.
+      Full-stack .NET Development<br/><br/>
+      Stack:<br/>
+      ASP.NET MVC, Razor front-end<br/>
+      .NET Core & Framework back-end<br/>
+      Entity Framework Core & OData data-link<br/>
+      SQL Server database
    </p>
    
    <h3>Software Engineer @ Yamada North America (May 2024 - Sep 2025)</h3>
@@ -98,7 +103,10 @@
    <img src="https://streak-stats.demolab.com/?user=masonritchason" alt="Mason's Public Contributions" width=350 height=150/>
    <img src="https://github-readme-stats.vercel.app/api?username=masonritchason&show_icons=true&hide_border=true" alt="Mason's GitHub Ranks" width=350 height=150/>
    <h2>Pointer change-point control system</h2>
+   <a href="https://www.github.com/masonritchason/pointer">Web App</a>
+   <br/>
    <a href="https://www.github.com/masonritchason/pointer-core">Core Library</a>
+   <br/>
    <a href="https://www.github.com/masonritchason/pointer-api">API</a>
    <h2>LotCom ERP Project 🏭</h2></summary>
    <div>
@@ -111,7 +119,7 @@
 
 <div align=left>
    <h1>Currently Learning 📖</h1>
-   <p>GitLab, Visual Studio, SAP B1</p>
+   <p>GitLab<br/>Trello<br/>Visual Studio (transition from VS Code)<br/>SAP B1</p>
 </div>
 
 <div align=left>
